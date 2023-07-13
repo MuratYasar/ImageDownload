@@ -1,0 +1,8 @@
+{
+  "BaseUrls": {
+    "UrlName": "https://picsum.photos/200/300",
+    "Count": 1500,
+    "Parallelism": 6,
+    "SavePath": "outputs"
+  }  
+}

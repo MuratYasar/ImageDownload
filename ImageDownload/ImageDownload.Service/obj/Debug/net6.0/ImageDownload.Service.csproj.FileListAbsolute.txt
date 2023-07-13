@@ -1,0 +1,12 @@
+C:\Users\murat.yasar\source\repos\ImageDownload\ImageDownload.Service\bin\Debug\net6.0\ImageDownload.Service.deps.json
+C:\Users\murat.yasar\source\repos\ImageDownload\ImageDownload.Service\bin\Debug\net6.0\ImageDownload.Service.dll
+C:\Users\murat.yasar\source\repos\ImageDownload\ImageDownload.Service\bin\Debug\net6.0\ImageDownload.Service.pdb
+C:\Users\murat.yasar\source\repos\ImageDownload\ImageDownload.Service\obj\Debug\net6.0\ImageDownload.Service.csproj.AssemblyReference.cache
+C:\Users\murat.yasar\source\repos\ImageDownload\ImageDownload.Service\obj\Debug\net6.0\ImageDownload.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.yasar\source\repos\ImageDownload\ImageDownload.Service\obj\Debug\net6.0\ImageDownload.Service.AssemblyInfoInputs.cache
+C:\Users\murat.yasar\source\repos\ImageDownload\ImageDownload.Service\obj\Debug\net6.0\ImageDownload.Service.AssemblyInfo.cs
+C:\Users\murat.yasar\source\repos\ImageDownload\ImageDownload.Service\obj\Debug\net6.0\ImageDownload.Service.csproj.CoreCompileInputs.cache
+C:\Users\murat.yasar\source\repos\ImageDownload\ImageDownload.Service\obj\Debug\net6.0\ImageDownload.Service.dll
+C:\Users\murat.yasar\source\repos\ImageDownload\ImageDownload.Service\obj\Debug\net6.0\refint\ImageDownload.Service.dll
+C:\Users\murat.yasar\source\repos\ImageDownload\ImageDownload.Service\obj\Debug\net6.0\ImageDownload.Service.pdb
+C:\Users\murat.yasar\source\repos\ImageDownload\ImageDownload.Service\obj\Debug\net6.0\ref\ImageDownload.Service.dll
